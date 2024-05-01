@@ -43,7 +43,6 @@ node_modules/
 jspm_packages/ 
 
 # Clasp
-.clasp.json
 appsscript.json
 
 # Snowpack dependency directory (https://snowpack.dev/)
